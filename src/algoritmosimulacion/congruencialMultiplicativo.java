@@ -101,7 +101,7 @@ public class congruencialMultiplicativo extends javax.swing.JFrame {
             }
         });
 
-        jButton5.setText("Prubea independencia");
+        jButton5.setText("Prueba independencia");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton5ActionPerformed(evt);
